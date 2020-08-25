@@ -1,5 +1,5 @@
 console.time('Your code Took');
-console.log('Hello console');
+console.log('Hello conscnlslcnlsole');
 console.log(4+34);
 console.log(34);
 console.log(true);
